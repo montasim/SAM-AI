@@ -1,0 +1,8 @@
+PyAudio
+pyttsx3
+speechRecognition
+datetime
+wikipedia
+webbrowser
+os
+smtplib
