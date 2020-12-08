@@ -35,6 +35,11 @@
 
 <h1 align="left">Program Name : SAM-AI</h1>
 
+<p align="left">
+  <img align="center" alt="status" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img align="center" alt="Gender" src="https://forthebadge.com/images/badges/made-with-python.svg" />
+</p>
+
 
 <h3 align="left">A personal assistant AI likes Jarvis. Can search Wikipedia, open apps, say time, and many more.</h3>
 
@@ -57,33 +62,42 @@
 
  <h2>Module</h2>
  
-  - pynput
-  - shutil
-  - logging
-  - os
+  - pyttsx3
+  - wikipedia
+  - webbrowser
+  - smtplib
 
 
-<h2>How to install shutil, logging and os module?</h2>
-
-- These modules comes with python. No need to install them separately.
-
-<h2>How to install the <b>pynput</b> module?</h2>
+<h2>How to install the <b>pyttsx3</b>, <b>wikipedia</b>, <b>webbrowser</b> and <b>smtplib</b> module?</h2>
 
 - Open Terminal 
-- Type pip install pynput
+- Type pip install pyttsx3
+- Type pip install wikipedia
+- Type pip install webbrowser
+- Type pip install smtplib
 
 ```sh
-$ pip install pynput
+$ pip install pyttsx3
+$ pip install wikipedia
+$ pip install webbrowser
+$ pip install smtplib
 ```
 
 <br>
 
 <p><b>Or</b></p>
 
-- Type pip3 install pynput
+- Open Terminal 
+- Type pip3 install pyttsx3
+- Type pip3 install wikipedia
+- Type pip3 install webbrowser
+- Type pip3 install smtplib
 
 ```sh
-$ pip3 install pynput
+$ pip3 install pyttsx3
+$ pip3 install wikipedia
+$ pip3 install webbrowser
+$ pip3 install smtplib
 ```
 
 <br>
